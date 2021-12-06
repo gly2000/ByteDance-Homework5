@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bfcc83272cb9545c0858c4443144f913\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\a77f23625d99966d7b4f5b445a0d049f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\256ff88205b9689c4fe346e4856b3e89\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bf651ea8b827d7a30edf2399b0922886\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\afdfbdc7fa1855407450996620359d0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\40ad96b523443fe3dfd2e6c1edd2d62f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\fae2c5545361b17a2126cba3b09d95dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3d0a9152af390dc94f91bea8d750d89c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1ec9da64d87cd2e7bdcc50a5f2fa2426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\921adeb021c7a1de3a9042b7d544e2cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\b2090cd76dc966af80a2207ac1fdda84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f7b8bd9c37db8045fba4b0f36f8d32bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f980272f2eecfe939b2d25a2c5bd6ed0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\806196f02a6bd451b114c9cefbb76982\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\cf68f9e8cd89e803cbdcdadb8a1f0933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\8d47c8ad09393f3ba9b2dbba25620b07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c7d97e0d89c309f9496c4bf1fef93979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\9747bd199a6c27a07ef40833f0db3a83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\401ec16a9f800b7057e27fcc8a0b3283\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\646ad715a1785d72c3b913ca227a2253\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\aeb6cade1a83211dedd868422b5858ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\31086a19e307f46f7845cc98fd2a82a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3ff7c6e6646d5774c400764e658275e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1e79bba710a134ea8f2f1caa7d7f113b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\6dce1c246a3a9fb6462ed0933f3051c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\19e49bd44e78c0c6742c817425c655ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c41f73bfa5e9fa3e4f7f5a1f0a98b7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f1a07786fab928c07690b166e5988d9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bbee2b780a4e63e65e2700ef4b07ccc3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\7f1d93bb3ed931f5cd351a07c5bbd7d0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bfcc83272cb9545c0858c4443144f913\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bfcc83272cb9545c0858c4443144f913\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\256ff88205b9689c4fe346e4856b3e89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\256ff88205b9689c4fe346e4856b3e89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\401ec16a9f800b7057e27fcc8a0b3283\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\401ec16a9f800b7057e27fcc8a0b3283\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.EditActivity
+ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml:28:19-47
+uses-sdk
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bfcc83272cb9545c0858c4443144f913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bfcc83272cb9545c0858c4443144f913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\a77f23625d99966d7b4f5b445a0d049f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\a77f23625d99966d7b4f5b445a0d049f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\256ff88205b9689c4fe346e4856b3e89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\256ff88205b9689c4fe346e4856b3e89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bf651ea8b827d7a30edf2399b0922886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bf651ea8b827d7a30edf2399b0922886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\afdfbdc7fa1855407450996620359d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\afdfbdc7fa1855407450996620359d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\40ad96b523443fe3dfd2e6c1edd2d62f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\40ad96b523443fe3dfd2e6c1edd2d62f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\fae2c5545361b17a2126cba3b09d95dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\fae2c5545361b17a2126cba3b09d95dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3d0a9152af390dc94f91bea8d750d89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3d0a9152af390dc94f91bea8d750d89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1ec9da64d87cd2e7bdcc50a5f2fa2426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1ec9da64d87cd2e7bdcc50a5f2fa2426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\921adeb021c7a1de3a9042b7d544e2cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\921adeb021c7a1de3a9042b7d544e2cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\b2090cd76dc966af80a2207ac1fdda84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\b2090cd76dc966af80a2207ac1fdda84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f7b8bd9c37db8045fba4b0f36f8d32bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f7b8bd9c37db8045fba4b0f36f8d32bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f980272f2eecfe939b2d25a2c5bd6ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f980272f2eecfe939b2d25a2c5bd6ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\806196f02a6bd451b114c9cefbb76982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\806196f02a6bd451b114c9cefbb76982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\cf68f9e8cd89e803cbdcdadb8a1f0933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\cf68f9e8cd89e803cbdcdadb8a1f0933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\8d47c8ad09393f3ba9b2dbba25620b07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\8d47c8ad09393f3ba9b2dbba25620b07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c7d97e0d89c309f9496c4bf1fef93979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c7d97e0d89c309f9496c4bf1fef93979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\9747bd199a6c27a07ef40833f0db3a83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\9747bd199a6c27a07ef40833f0db3a83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\115acff94c313df573fe11ce49463cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\401ec16a9f800b7057e27fcc8a0b3283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\401ec16a9f800b7057e27fcc8a0b3283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\646ad715a1785d72c3b913ca227a2253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\646ad715a1785d72c3b913ca227a2253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\aeb6cade1a83211dedd868422b5858ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\aeb6cade1a83211dedd868422b5858ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\31086a19e307f46f7845cc98fd2a82a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\31086a19e307f46f7845cc98fd2a82a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3ff7c6e6646d5774c400764e658275e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\3ff7c6e6646d5774c400764e658275e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1e79bba710a134ea8f2f1caa7d7f113b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\1e79bba710a134ea8f2f1caa7d7f113b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\6dce1c246a3a9fb6462ed0933f3051c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\6dce1c246a3a9fb6462ed0933f3051c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\19e49bd44e78c0c6742c817425c655ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\19e49bd44e78c0c6742c817425c655ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c41f73bfa5e9fa3e4f7f5a1f0a98b7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\c41f73bfa5e9fa3e4f7f5a1f0a98b7f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f1a07786fab928c07690b166e5988d9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\f1a07786fab928c07690b166e5988d9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bbee2b780a4e63e65e2700ef4b07ccc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\bbee2b780a4e63e65e2700ef4b07ccc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\7f1d93bb3ed931f5cd351a07c5bbd7d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gelon\.gradle\caches\transforms-2\files-2.1\7f1d93bb3ed931f5cd351a07c5bbd7d0\AndroidManifest.xml:20:5-44
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		ADDED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CS175-Homework\Homework5\app\src\main\AndroidManifest.xml
